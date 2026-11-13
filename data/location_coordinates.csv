@@ -1,0 +1,8 @@
+location_id,location_name,latitude,longitude,coordinate_source
+DEPOT,Delhi Disaster Management Authority,28.673688582210815,77.22360147541286,Official DDMA embedded map
+P1,SOSE Civil Lines,28.681766708664899,77.222136658476401,Delhi Directorate of Education
+P2,SOSE Raj Niwas Marg,28.672713,77.225200,Delhi Directorate of Education
+P3,Qutab Road SBV,28.654744263156299,77.215730294441201,Delhi Directorate of Education
+P4,Model Basti GBMS,28.6579181733998,77.203628719596693,Delhi Directorate of Education
+P5,Chandni Chowk G Co-ed SS,28.656681786270401,77.226524464179803,Delhi Directorate of Education
+P6,Gulabi Bagh S Co-ed Vidyalaya,28.671024511953799,77.188779828064895,Delhi Directorate of Education

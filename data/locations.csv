@@ -1,0 +1,8 @@
+location_id,location_name,role,search_query,official_school_id,source
+DEPOT,Delhi Disaster Management Authority,DEPOT,"5 Sham Nath Marg Prema Kunj Civil Lines Delhi 110054",,DDMA Official Website
+P1,SOSE Civil Lines,DELIVERY_POINT,"SOSE Civil Lines Delhi",1207259,SCERT Delhi
+P2,SOSE Raj Niwas Marg,DELIVERY_POINT,"SOSE Raj Niwas Marg Delhi",1207261,SCERT Delhi
+P3,Qutab Road SBV,DELIVERY_POINT,"Qutab Road SBV Delhi",1208002,SCERT Delhi
+P4,Model Basti GBMS,DELIVERY_POINT,"Model Basti GBMS Delhi",1208010,SCERT Delhi
+P5,Chandni Chowk Government School,DELIVERY_POINT,"Chandni Chowk G Co-ed SS Delhi",1208011,SCERT Delhi
+P6,Gulabi Bagh-S(Co-ed)V,DELIVERY_POINT,"Gulabi Bagh S Co-ed Vidyalaya Delhi",1208013,Directorate of Education Delhi
